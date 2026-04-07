@@ -27,6 +27,16 @@ Sistema de gestión de biblioteca en Java con arquitectura en capas (modelo/serv
 
 ---
 
+## Estructura
+```bash
+src/
+├── model/        # Libro, Usuario, Prestamo
+├── service/      # BibliotecaService
+└── app/          # Runner
+```
+
+---
+
 ## Cómo ejecutar
 1. Clonar el repositorio:
 ```bash
