@@ -1,9 +1,7 @@
 # Sistema-Biblioteca-Java
 
 ## Descripción
-Sistema de gestión de biblioteca desarrollado en Java como proyecto personal.  
-Permite administrar libros y usuarios, realizar préstamos y devoluciones, controlar stock y mantener un historial de transacciones, aplicando principios de Programación Orientada a Objetos (POO).
-
+Sistema de gestión de biblioteca en Java con arquitectura en capas (modelo/servicio/aplicación), desarrollado para consolidar conceptos de POO y estructuras de datos dinámicas.
 ---
 
 ## Funcionalidades
@@ -31,7 +29,7 @@ Permite administrar libros y usuarios, realizar préstamos y devoluciones, contr
 ## Cómo ejecutar
 1. Clonar el repositorio:
 ```bash
-git clone github.com/MateoSpinacci/Proyecto5_BibliotecaAvanzada
+git clone https://github.com/MateoSpinacci/Proyecto5_BibliotecaAvanzada
 ```
 2.	Abrir el proyecto en un IDE (IntelliJ, Eclipse, NetBeans)
 3.	Ejecutar la clase Runner.java
