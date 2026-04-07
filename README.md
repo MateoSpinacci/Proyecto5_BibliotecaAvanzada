@@ -20,10 +20,11 @@ Permite administrar libros y usuarios, realizar préstamos y devoluciones, contr
 ## Tecnologías y conceptos aplicados
 - **Lenguaje:** Java  
 - **Paradigma:** Programación Orientada a Objetos (POO)  
-- **Conceptos clave:** encapsulamiento, herencia, polimorfismo  
-- **Estructuras de datos:** ArrayList  
-- **Manejo de errores:** excepciones personalizadas  
-- **Control de flujo y validaciones**: Scanner, loops y verificaciones de entrada  
+- **Conceptos clave:** encapsulamiento, sobreescritura de métodos (toString, equals)
+- **Estructuras de datos:** listas dinámicas con ArrayList
+- **Flujo de programa:** menús de consola, validaciones de entrada de usuario
+- **Manejo de stock y préstamos:** control de disponibilidad de libros, historial de préstamos
+- **Errores y excepciones:** manejo de casos como libro no disponible o usuario inexistente
 
 ---
 
