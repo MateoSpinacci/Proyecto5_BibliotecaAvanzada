@@ -2,6 +2,7 @@
 
 ## Descripción
 Sistema de gestión de biblioteca en Java con arquitectura en capas (modelo/servicio/aplicación), desarrollado para consolidar conceptos de POO y estructuras de datos dinámicas.
+
 ---
 
 ## Funcionalidades
