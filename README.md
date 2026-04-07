@@ -30,7 +30,7 @@ Permite administrar libros y usuarios, realizar préstamos y devoluciones, contr
 ## Cómo ejecutar
 1. Clonar el repositorio:
 ```bash
-git clone 
+git clone github.com/MateoSpinacci/Proyecto5_BibliotecaAvanzada```
 2.	Abrir el proyecto en un IDE (IntelliJ, Eclipse, NetBeans)
 3.	Ejecutar la clase Runner.java
 4.	Seguir el menú interactivo para administrar la biblioteca
