@@ -30,8 +30,8 @@ Sistema de gestión de biblioteca en Java con arquitectura en capas (modelo/serv
 ## Estructura
 ```bash
 src/
-├── model/        # Libro, Usuario, Prestamo
-├── service/      # BibliotecaService
+├── model/        # Libro, Usuario, EjemplarLibro, Biblioteca
+├── service/      # ServiceUsuario, ServiceLibros, ServiceGeneral, Verficadores 
 └── app/          # Runner
 ```
 
